@@ -1,0 +1,5 @@
+{
+  "name": "20260130_1728 of HK Mortgage 2026 Simulator",
+  "description": "A specialized mortgage calculator for the 2026 Hong Kong market, simulating HIBOR fluctuations, H-Plan vs Cap logic, and cash rebates.",
+  "requestFramePermissions": []
+}
